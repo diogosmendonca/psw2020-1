@@ -1,0 +1,28 @@
+{
+  "name": "projeto_exemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogosmendonca/psw2020-1.git"
+  },
+  "author": "Diogo S. Mendonça",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogosmendonca/psw2020-1/issues"
+  },
+  "homepage": "https://github.com/diogosmendonca/psw2020-1#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
