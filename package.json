@@ -19,7 +19,7 @@
   "homepage": "https://github.com/diogosmendonca/psw2020-1#readme",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": ">=3.4.0",
+    "jquery": ">=3.5.0",
     "popper.js": "^1.16.0"
   },
   "devDependencies": {
